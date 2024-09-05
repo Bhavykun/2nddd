@@ -1,9 +1,3 @@
-To create a detailed `README.md` file for uploading your CSV dataset to GitHub, I will need to inspect the contents of the file. Let me first load the data and then generate the README file based on it.
-
-Based on the dataset, here's a detailed `README.md` file for your GitHub repository:
-
----
-
 # Space Mission Dataset
 
 ## Overview
@@ -72,15 +66,3 @@ The dataset is in CSV format, where each row corresponds to a space mission.
    import pandas as pd
    data = pd.read_csv('space_mission_dataset.csv')
    ```
-
-## License
-
-This dataset is available under the MIT License. See the `LICENSE` file for more information.
-
-## Contribution
-
-Feel free to open issues or submit pull requests to contribute to this project.
-
----
-
-You can copy and paste this text into your `README.md` file for your GitHub repository. Let me know if you need any adjustments!
